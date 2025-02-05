@@ -1,0 +1,10 @@
+node_modules
+.vscode
+yarn.lock
+package-lock.json
+build
+dist
+assets
+auto-imports.d.ts
+components.d.ts
+**/*.min.js
